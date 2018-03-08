@@ -1,0 +1,23 @@
+{
+  "name": "webpack-babel-bootstrap",
+  "version": "0.9.5",
+  "description": "Simple bootstrap, framework agnostic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodi/webpack-babel-bootstrap.git"
+  },
+  "author": "Dragan Bajcic <dragan@bajcic.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodi/webpack-babel-bootstrap/issues"
+  },
+  "homepage": "https://github.com/kodi/webpack-babel-bootstrap#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
